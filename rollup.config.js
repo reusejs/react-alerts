@@ -4,7 +4,7 @@ import postcss from "rollup-plugin-postcss";
 import commonjs from "rollup-plugin-commonjs";
 
 export default {
-  input: ["index.js", "src/Confirm/index.js", "src/Simple/index.js"],
+  input: ["index.js", "src/Simple/index.js"],
   output: [
     {
       dir: "build",

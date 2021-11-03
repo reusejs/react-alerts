@@ -1,5 +1,5 @@
 {
-  "name": "@reusejs/react-modals",
+  "name": "@reusejs/react-alerts",
   "version": "0.0.3",
   "description": "A library of reactjs modals",
   "main": "build/index.js",
@@ -8,12 +8,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reusejs/react-modals.git"
+    "url": "git+https://github.com/reusejs/react-alerts.git"
   },
   "bugs": {
-    "url": "https://github.com/reusejs/react-modals/issues"
+    "url": "https://github.com/reusejs/react-alerts/issues"
   },
-  "homepage": "https://github.com/reusejs/react-modals",
+  "homepage": "https://github.com/reusejs/react-alerts",
   "author": "Rajiv Seelam",
   "license": "MIT",
   "scripts": {
