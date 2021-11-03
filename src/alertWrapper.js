@@ -8,8 +8,6 @@ function classNames(...classes) {
 }
 
 function AlertWrapper({ visible, config, ...props }) {
-  console.log("config", config);
-
   return (
     <div
       aria-live="assertive"
